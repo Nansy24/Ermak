@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/our_works"
+        android:title="@string/our_works"
+        android:icon="@drawable/ic_our_works"/>
+
+    <item android:id="@+id/our_advantages"
+        android:title="@string/our_advabtages"
+        android:icon="@drawable/ic_our_advantages"/>
+
+    <item android:id="@+id/home"
+        android:title="@string/home"
+        android:icon="@drawable/ic_home" />
+
+    <item android:id="@+id/dop_serveces"
+        android:title="@string/another_services"
+        android:icon="@drawable/ic_dop_services"/>
+
+    <item android:id="@+id/crimea_advantages"
+        android:title="@string/crimea_advantages"
+        android:icon="@drawable/ic_crimea_advantages"/>
+
+</menu>

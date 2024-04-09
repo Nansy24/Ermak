@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "147834490385",
+    "firebase_url": "https://ermak-353a4-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "ermak-353a4",
+    "storage_bucket": "ermak-353a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147834490385:android:2012f4e41b667b29f9abb0",
+        "android_client_info": {
+          "package_name": "com.anasteisiamarionkina.ermak"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRsZKERh2ru-xf-oX9uK_rzzptYavehxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

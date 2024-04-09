@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Ermak</string>
+    <string name="our_works">Работы</string>
+    <string name="our_advabtages">Почему мы</string>
+    <string name="home">Главная</string>
+    <string name="another_services">Доп. услуги</string>
+    <string name="crimea_advantages">Крым</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="button_home_send">Отправить</string>
+    <string name="hint_phone_number">Введите свой номер телефона:</string>
+    <string name="hint_email">Введите свой email:</string>
+    <string name="form_text_view_2">и мы обязательно свяжемся с вами</string>
+    <string name="form_text_view">Оставьте свои контакты</string>
+    <string name="text_company_services">Покупка недвижимости, её продажа, сдача в аренду и управление ей</string>
+    <string name="text_company_name">Ермак</string>
+    <string name="text_company_field">Агентсво недвижимости</string>
+    <string name="adv_title">Основные причины выбрать нас</string>
+    <string name="adv_1">Мы продаём свою недвижимость, мы уже выбрали лучшее для вас</string>
+    <string name="adv_2">Оплата в рассрочку, помощь с кредитованием сделки</string>
+    <string name="adv_3">Цены ниже рынка, а качество выше, т.к. мы уже вложились с объект, а не работаем за комиссию!</string>
+    <string name="adv_4">Покупателям помогаем оформить сделку бесплатно!</string>
+    <string name="adv_5">Цена на порядок выше, чем в Москве - твои деньги не обесценятся, а принесут прибыль при продаже и удовольствие при использовании</string>
+    <string name="adv_6">Быстрое оформление сделки (2-3 дня)</string>
+    <string name="adv_7">Юридическая чистота и прозрачность</string>
+    <string name="adv_8">Бесплатное оформление недвижимости в собственность</string>
+    <string name="adv_9">Бесплатное подключение воды и электричества (в случае покупки отдельного дома)</string>
+    <string name="crimea_title">Преимущества покупки недвижимости в Крыму</string>
+    <string name="crimea_adv_1">Доступность перелётов. Прямые рейсы из 33 городов РФ</string>
+    <string name="crimea_adv_2">Мягкая/тёплая зима и солнечное лето с тёплфм морем с мая по ноябрь</string>
+    <string name="crimea_adv_3">Развитая инфраструктура (шопинг, рестораны, клубы, школы, экскурсии)</string>
+    <string name="crimea_adv_4">Мягкая/тёплая зима и солнечное лето с тёплфм морем с мая по ноябрь</string>
+    <string name="crimea_adv_5">Свежие сочные фрукты/овощи круглый год</string>
+    <string name="crimea_adv_6">Красивая и уникальная природа полуострова</string>
+    <string name="crimea_adv_7">Низкие цены</string>
+    <string name="services_title">Также вы можете воспользоваться нашими дополнительными услугами</string>
+    <string name="text_helping_with_flat">Сдача в аренду и управление вашей недвижимостью (оплата счетов, проверка и уборка.</string>
+    <string name="text_furniture">Помощь в подборе и покупке мебели.</string>
+    <string name="text_repair">Организация ремонта при необходимости.</string>
+</resources>
